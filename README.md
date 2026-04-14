@@ -1,27 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Virtual Money - UC PUBG & Diamants Free Fire</title>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <style>
-    body {
-      font-family: 'Orbitron', sans-serif;
-      background-color: #0f0f0f;
-      color: white;
-      margin: 0;
-      padding: 0;
-      text-align: center;
-      overflow-x: hidden;
-    }
-    header {
-      background-color: #111;
-      padding: 20px;
-    }
-    h1 {
-      margin-top: 10px;
       color: #00ff00;
     }
     .contact {
